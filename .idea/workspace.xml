@@ -582,7 +582,11 @@
       <created>1412003922205</created>
       <updated>1412003922205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="This is my first git use, and I try to use git">
+      <created>1412003934886</created>
+      <updated>1412003934886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
